@@ -1,0 +1,2 @@
+# Hands-on-Detection-Engineering-Threat-Hunting-SIEM-Rule-Tuning-Telemetry-CTF-Labs-SecByte-Index
+A practical collection of cybersecurity CTF labs covering Detection Engineering fundamentals (rule creation, signal sculpting, logic drift), false positive reduction, SIEM rule tuning, threat hunting (IoC radar, insider threat user journeys, pipeline ghosts), and advanced host forensic detection (vanishing processes).
